@@ -1,0 +1,254 @@
+{
+  "brand": "Harish Motors",
+  "tagline": "Car & Bike Breakdown Service",
+  "since": "Serving Customers Since 2000",
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "areas": "Service Areas",
+    "about": "About Us",
+    "contact": "Contact",
+    "pricing": "Pricing",
+    "blog": "Tips & Blog"
+  },
+  "hero": {
+    "title": "24/7 Roadside Assistance in Delhi NCR",
+    "subtitle": "Stranded on the road? We'll reach you in minutes. Battery jump start, towing, fuel delivery, tyre change & more.",
+    "cta": "Get Help Now",
+    "callNow": "Call Now",
+    "available": "Available 24/7 - All Holidays"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Complete roadside assistance for cars and bikes across Delhi NCR",
+    "battery": {
+      "title": "Battery Jump Start",
+      "desc": "Dead battery? We'll jump start your vehicle in minutes. Available 24/7 across Delhi NCR."
+    },
+    "newBattery": {
+      "title": "New Battery Installation",
+      "desc": "Need a new battery? We deliver and install quality batteries at your location."
+    },
+    "fuel": {
+      "title": "Fuel Delivery",
+      "desc": "Ran out of fuel? We deliver petrol or diesel directly to your stranded vehicle."
+    },
+    "towing": {
+      "title": "Towing Service",
+      "desc": "Professional towing service with flatbed trucks. Safe transport for your vehicle to any location."
+    },
+    "tyre": {
+      "title": "Tyre Puncture / Stepney Change",
+      "desc": "Flat tyre on the road? We repair punctures or change to your stepney on the spot."
+    },
+    "heating": {
+      "title": "Engine Overheating",
+      "desc": "Engine overheating? Our mechanics diagnose and fix cooling system issues on the spot."
+    },
+    "starting": {
+      "title": "Starting Problems",
+      "desc": "Car won't start? We diagnose and fix ignition, starter motor, and electrical issues."
+    },
+    "lockout": {
+      "title": "Key Lockout",
+      "desc": "Locked out of your car? Our experts safely unlock your vehicle without damage."
+    },
+    "other": {
+      "title": "Other Vehicle Problems",
+      "desc": "Any other breakdown issue? Call us - we have solutions for all vehicle problems."
+    },
+    "requestService": "Request Service",
+    "getQuote": "Get Quote"
+  },
+  "areas": {
+    "title": "Service Areas",
+    "subtitle": "Fast response across Delhi NCR - We cover all major areas",
+    "mainAreas": "Primary Service Areas",
+    "otherAreas": "We Also Cover",
+    "responseTime": "Response Time",
+    "minutes": "minutes",
+    "servicesAvailable": "All Services Available",
+    "requestHelp": "Request Help in This Area",
+    "saritaVihar": {
+      "title": "Sarita Vihar",
+      "desc": "Quick roadside assistance in Sarita Vihar and surrounding areas including Jasola, Okhla, and Mathura Road."
+    },
+    "dhaulaKuan": {
+      "title": "Dhaula Kuan",
+      "desc": "Breakdown service near Dhaula Kuan covering Ring Road, Panchsheel, and South Delhi areas."
+    },
+    "indiaGate": {
+      "title": "India Gate",
+      "desc": "Emergency roadside help near India Gate, Rajpath, Connaught Place, and Central Delhi."
+    },
+    "chidiyaGhar": {
+      "title": "Chidiya Ghar (Delhi Zoo)",
+      "desc": "Roadside assistance near Delhi Zoo, Pragati Maidan, and surrounding East Delhi areas."
+    },
+    "ghazipurMandi": {
+      "title": "Ghazipur Mandi",
+      "desc": "Quick breakdown service at Ghazipur and NH24 corridor covering East Delhi to Noida border."
+    },
+    "noida": {
+      "title": "Noida",
+      "desc": "Complete roadside assistance across Noida sectors, Greater Noida Expressway, and Film City area."
+    },
+    "delhi": {
+      "title": "All Delhi",
+      "desc": "Complete coverage across all of Delhi - North, South, East, West, and Central Delhi."
+    },
+    "gurgaon": {
+      "title": "Gurgaon",
+      "desc": "Roadside assistance in Gurgaon including Golf Course Road, MG Road, and Sohna Road."
+    },
+    "ghaziabad": {
+      "title": "Ghaziabad",
+      "desc": "Breakdown service across Ghaziabad including Indirapuram, Vaishali, and Raj Nagar."
+    }
+  },
+  "about": {
+    "title": "About Harish Motors",
+    "subtitle": "Trusted roadside assistance in Delhi since 2000",
+    "story": "Founded by Harish Chand in 2000, Harish Motors has been Delhi NCR's trusted roadside assistance partner for over 25 years. What started as a small garage in Kilokari has grown into a full-service mobile breakdown assistance team covering all of Delhi, Noida, Gurgaon, and Ghaziabad.",
+    "mission": "Our Mission",
+    "missionText": "To provide fast, reliable, and affordable roadside assistance to every stranded motorist in Delhi NCR, 24 hours a day, 7 days a week, 365 days a year.",
+    "experience": "25+ Years Experience",
+    "vehicles": "10,000+ Vehicles Helped",
+    "coverage": "Entire Delhi NCR Coverage",
+    "allDay": "24/7 Availability",
+    "owner": "Harish Chand",
+    "ownerRole": "Founder & Lead Mechanic",
+    "values": {
+      "title": "Our Values",
+      "reliability": "Reliability",
+      "reliabilityText": "We show up when we say we will - every single time.",
+      "speed": "Speed",
+      "speedText": "Fast response times because every minute matters when you're stranded.",
+      "honesty": "Honesty",
+      "honestyText": "Transparent pricing with no hidden charges. Ever.",
+      "expertise": "Expertise",
+      "expertiseText": "25+ years of hands-on experience with all vehicle makes and models."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch for immediate roadside assistance",
+    "phone": "Phone",
+    "address": "Address",
+    "addressText": "G-36T, Ganga Vihar Colony, Opp. Surya Garhi, Kilokari, New Delhi",
+    "hours": "Operating Hours",
+    "hoursText": "24/7 - Open on All Holidays",
+    "whatsapp": "WhatsApp Us",
+    "form": {
+      "name": "Your Name",
+      "phone": "Phone Number",
+      "location": "Your Location",
+      "issue": "Describe Your Issue",
+      "service": "Select Service",
+      "submit": "Send via WhatsApp",
+      "emergency": "Emergency? Call Directly"
+    }
+  },
+  "pricing": {
+    "title": "Pricing",
+    "subtitle": "Transparent and competitive pricing for all services",
+    "note": "Final price depends on location, time, and specific requirements. Contact us for an exact quote.",
+    "getQuote": "Get Exact Quote",
+    "free": "Free Assessment",
+    "starting": "Starting from"
+  },
+  "blog": {
+    "title": "Car Care Tips & Blog",
+    "subtitle": "Expert advice to keep your vehicle running smoothly",
+    "readMore": "Read More",
+    "posts": {
+      "battery": {
+        "title": "How to Maintain Your Car Battery in Delhi's Heat",
+        "excerpt": "Delhi's extreme summers can kill your battery. Here are 5 tips to extend battery life..."
+      },
+      "monsoon": {
+        "title": "Monsoon Driving Safety Tips for Delhi NCR",
+        "excerpt": "Waterlogging, reduced visibility, and slippery roads - stay safe this monsoon season..."
+      },
+      "tyres": {
+        "title": "When to Replace Your Car Tyres: A Complete Guide",
+        "excerpt": "Worn tyres are dangerous, especially in Delhi traffic. Learn the signs that indicate replacement..."
+      },
+      "emergency": {
+        "title": "What to Do When Your Car Breaks Down on a Highway",
+        "excerpt": "A breakdown on NH-24 or the expressway can be scary. Follow these steps to stay safe..."
+      }
+    }
+  },
+  "whyUs": {
+    "title": "Why Choose Harish Motors?",
+    "experience": "25+ Years of Trusted Service",
+    "experienceText": "Serving Delhi NCR since 2000 with thousands of satisfied customers.",
+    "fast": "Fast Response Time",
+    "fastText": "We reach you in 20-40 minutes anywhere in Delhi NCR.",
+    "allDay": "24/7 Availability",
+    "allDayText": "Open all day, every day - including all holidays.",
+    "affordable": "Affordable Pricing",
+    "affordableText": "Competitive rates with no hidden charges."
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "step1": "Call or WhatsApp Us",
+    "step1Text": "Contact us on 99586 28182 or send a WhatsApp message.",
+    "step2": "We Reach You Fast",
+    "step2Text": "Our nearest technician reaches your location in minutes.",
+    "step3": "Problem Solved",
+    "step3Text": "We fix the issue on the spot or tow your vehicle safely."
+  },
+  "cta": {
+    "emergency": "Emergency Breakdown?",
+    "emergencyText": "Don't wait - call us now for immediate roadside assistance anywhere in Delhi NCR.",
+    "callNow": "Call 99586 28182",
+    "whatsapp": "WhatsApp Us"
+  },
+  "footer": {
+    "rights": "All Rights Reserved",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "serviceAreas": "Service Areas",
+    "description": "Professional car & bike breakdown assistance in Delhi NCR. 24/7 emergency roadside service since 2000."
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "t1": {
+      "name": "Yashwin Choudhury",
+      "location": "Sarita Vihar",
+      "text": "My car battery died at 2 AM near Sarita Vihar. Harish Motors reached me in 25 minutes and jump started my car. Excellent service!"
+    },
+    "t2": {
+      "name": "Prisha Iyer",
+      "location": "Noida Sector 62",
+      "text": "Got a flat tyre on the expressway. They changed my tyre in 15 minutes. Very professional and affordable."
+    },
+    "t3": {
+      "name": "Dhruvendra Mohanty",
+      "location": "India Gate",
+      "text": "Locked my keys inside the car near India Gate. The locksmith was there in 30 minutes. No damage to the car at all!"
+    },
+    "t4": {
+      "name": "Kiara Menon",
+      "location": "Gurgaon",
+      "text": "Engine overheated on the highway. Harish ji guided me on the phone and sent help quickly. Truly 24/7 service!"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "How quickly can you reach me?",
+    "a1": "We typically reach anywhere in Delhi NCR within 20-40 minutes depending on traffic and location.",
+    "q2": "Do you service both cars and bikes?",
+    "a2": "Yes, we provide breakdown assistance for both cars and bikes of all makes and models.",
+    "q3": "What areas do you cover?",
+    "a3": "We cover all of Delhi, Noida, Gurgaon, Ghaziabad, and surrounding NCR areas.",
+    "q4": "Are you available on holidays?",
+    "a4": "Yes, we operate 24/7 including all national holidays and festivals.",
+    "q5": "How do I pay?",
+    "a5": "We accept cash, UPI (GPay, PhonePe, Paytm), and bank transfers.",
+    "q6": "Do you provide towing for long distances?",
+    "a6": "Yes, we can tow your vehicle anywhere within NCR and even to nearby cities upon request."
+  }
+}
